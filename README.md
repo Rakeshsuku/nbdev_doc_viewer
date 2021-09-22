@@ -1,6 +1,6 @@
 # nbdev_doc_viewer
 
-nbdev_doc_viewer creates a docker container to view the documentation for any repository built using [fast.ai](https://www.fast.ai/)'s [nbdev](https://nbdev.fast.ai/) template.
+nbdev_doc_viewer creates a docker container to view the documentation locally for any repository built using [fast.ai](https://www.fast.ai/)'s [nbdev](https://nbdev.fast.ai/) template.
 
 ---
 
