@@ -1,0 +1,12 @@
+version: '3.9'
+
+services:
+ nbdev_viewer:
+  build:
+   context: .
+   args:
+    TZ: ${TZ}
+  ports:
+  - 4000:4000
+  volumes:
+  - ${REPO}:/repo
